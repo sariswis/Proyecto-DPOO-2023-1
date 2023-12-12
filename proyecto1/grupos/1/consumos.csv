@@ -1,0 +1,5 @@
+fecha,tipo,descripcion(linea#),valor,pagado,huespedes(documento#)
+2023-05-29,alojamiento,#- ESTANDAR: 1 - $500000#- SUITE: 2 - $550000,1050000,true,1#
+2023-05-29,restaurante,2. gaseosa - $3000#2. gaseosa - $3000#6. salchipapa - $11000#10. ensalada - $12000#10. ensalada - $12000#10. ensalada - $12000#13. pechuga a la plancha - $16000#,69000,true,4#
+2023-05-29,restaurante,5. cerveza - $6000#9. empanada - $3000#9. empanada - $3000#12. bandeja paisa - $17000#15. papas a la francesa - $4500#15. papas a la francesa - $4500#15. papas a la francesa - $4500#15. papas a la francesa - $4500#,47000,true,3#
+2023-05-29,spa,Servicio de spa por persona,50000,true,2#

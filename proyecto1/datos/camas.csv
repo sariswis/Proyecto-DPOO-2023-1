@@ -1,0 +1,13 @@
+id habitacion,tipo,tamanio,capacidad,solo ninios
+1,ESTANDAR,grande,2,false
+1,ESTANDAR,grande,2,true
+2,SUITE,mediana,3,true
+2,SUITE,mediana,3,false
+3,SUITE_DOBLE,mediana,1,false
+3,SUITE_DOBLE,mediana,2,true
+3,SUITE_DOBLE,mediana,1,false
+4,SUITE,grande,3,false
+4,SUITE,pequenia,1,true
+5,SUITE_DOBLE,grande,2,false
+5,SUITE_DOBLE,pequenia,1,true
+5,SUITE_DOBLE,mediana,2,true

@@ -1,0 +1,18 @@
+FACTURA N° 3 GRUPO 1
+Tipo: restaurante Fecha: 2023-05-29 
+
+Descripción:
+5. cerveza - $6000
+9. empanada - $3000
+9. empanada - $3000
+12. bandeja paisa - $17000
+15. papas a la francesa - $4500
+15. papas a la francesa - $4500
+15. papas a la francesa - $4500
+15. papas a la francesa - $4500
+
+Huéspedes: 
+
+Valor: $47000.0
+IVA (19%): $8930.0
+Valor Total: $55930.0

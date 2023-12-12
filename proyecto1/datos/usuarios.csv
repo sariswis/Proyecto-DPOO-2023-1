@@ -1,0 +1,6 @@
+login,password,documento,rol
+admin,123,1234,ADMINISTRADOR
+mesero,123,1549,MESERO
+recep,123,6578,RECEPCIONISTA
+spa,123,5421,ENCARGADO_SPA
+guia,123,1079,GUIA

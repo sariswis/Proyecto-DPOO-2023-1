@@ -1,0 +1,12 @@
+FACTURA N° 1 GRUPO 1
+Tipo: alojamiento Fecha: 2023-05-29 
+
+Descripción:
+
+- ESTANDAR: 1 - $500000
+- SUITE: 2 - $550000
+Huéspedes: 
+
+Valor: $1050000.0
+IVA (19%): $199500.0
+Valor Total: $1249500.0

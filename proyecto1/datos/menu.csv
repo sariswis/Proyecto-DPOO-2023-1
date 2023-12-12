@@ -1,0 +1,17 @@
+nombre,precio,servicio al cuarto,cantidad vendidos,valor vendido
+hamburguesa,16000,true,0,0
+gaseosa,3000,true,2,6000
+helado,5000,false,1,5000
+pizza,10000,true,5,50000
+cerveza,6000,true,1,6000
+salchipapa,11000,true,1,11000
+malteada,6000,true,0,0
+jugo,5000,true,0,0
+empanada,3000,true,2,6000
+ensalada,12000,false,4,48000
+churrasco,17000,false,0,0
+bandeja paisa,17000,false,1,17000
+pechuga a la plancha,16000,false,1,16000
+picada,26000,true,2,52000
+papas a la francesa,4500,true,4,18000
+ensalada de frutas,7000,true,3,21000

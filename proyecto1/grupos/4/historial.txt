@@ -1,0 +1,6 @@
+2023-06-04T17:47:59.740060800 - Se realizó check-in
+2023-06-04T17:48:01.966534200 - Se agregó un huésped carlos
+2023-06-04T17:48:03.249130400 - Se agregó el consumo 1
+2023-06-04T17:48:16.083039200 - Se agregó el consumo 2
+2023-06-04T17:48:21.489424600 - Se agregó el consumo 3
+2023-06-04T17:48:51.766975800 - Se realizó check-out

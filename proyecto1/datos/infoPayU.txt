@@ -1,0 +1,5 @@
+Fecha, Nombre cliente, Documento cliente, Monto, Número de cuenta, Tarjeta, Resultado
+2023-06-04,  a, 2, 108000.0, 123456,  1, Exitoso
+2023-06-04,  a, 1, 108000.0, 123456,  1, Exitoso
+2023-06-04,  a, 1, 108000.0, 123456,  1, Cupo insuficiente
+2023-06-04,  a, 7, 108000.0, 123456,  5, Exitoso

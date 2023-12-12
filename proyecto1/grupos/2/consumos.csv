@@ -1,0 +1,6 @@
+fecha,tipo,descripcion(linea#),valor,pagado,huespedes(documento#)
+2023-05-30,alojamiento,#- SUITE: 4 - $330000#- SUITE_DOBLE: 5 - $360000,690000,false,2#
+2023-05-30,guia_turistico,Servicio de guia turistico por grupo,100000,false,1#2#
+2023-05-30,spa,Servicio de spa por persona,50000,true,2#
+2023-05-30,restaurante,4. pizza - $10000#4. pizza - $10000#4. pizza - $10000#4. pizza - $10000#10. ensalada - $12000#14. picada - $26000#14. picada - $26000#16. ensalada de frutas - $7000#16. ensalada de frutas - $7000#16. ensalada de frutas - $7000#,125000,false,1#
+2023-05-30,restaurante,4. pizza - $10000#,10000,true,1#

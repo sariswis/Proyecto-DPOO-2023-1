@@ -1,0 +1,6 @@
+id,tipo,ubicacion,tiene balcon,tiene vista,tiene cocina integrada,tamanio m2,aire acondicionado,calefaccion,tv,cafetera,ropa cama y tapetes,plancha,secador,voltaje AC,USB-A,USB-C,desayuno
+1,ESTANDAR,piso 1,true,false,false,50,true,false,true,false,true,true,true,true,false,true,true
+2,SUITE,piso 1,true,true,true,52,true,false,true,false,true,true,true,true,true,true,true
+3,SUITE_DOBLE,piso 1,true,true,false,50,true,false,false,false,true,true,true,true,false,true,true
+4,SUITE,piso 2,true,true,false,50,true,false,true,false,true,true,false,true,false,true,true
+5,SUITE_DOBLE,piso 2,true,true,true,52,true,false,true,false,true,true,true,true,false,true,false

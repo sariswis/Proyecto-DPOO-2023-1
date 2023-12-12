@@ -1,0 +1,12 @@
+2023-05-29T17:42:50.147826500 - Se realizó check-in
+2023-05-29T17:42:51.025509400 - Se agregó un huésped sara
+2023-05-29T17:43:01.922344200 - Se agregó un huésped johanna
+2023-05-29T17:43:07.616092100 - Se agregó un huésped samu
+2023-05-29T17:43:14.171029400 - Se agregó un huésped violeta
+2023-05-29T17:43:22.166152100 - Se agregó un huésped anna
+2023-05-29T17:43:23.118025800 - Se agregó el consumo 1
+2023-05-29T17:43:46.795510100 - Se agregó el consumo 2
+2023-05-29T17:44:18.624294400 - Se agregó el consumo 3
+2023-05-29T17:44:48.599347900 - Se agregó el consumo 4
+2023-05-29T17:46:16.816212200 - Se realizó check-out
+2023-06-02T19:37:13.309702 - Se agregó un huésped sara

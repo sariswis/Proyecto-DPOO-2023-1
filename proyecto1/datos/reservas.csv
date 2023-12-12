@@ -1,0 +1,5 @@
+"id,fecha inicio,fecha fin,adultos esperados,ninios esperados,tarifa total,activa,tiene grupo,huesped(nombre#documento#edad#correo#celular;),habitaciones(tipo-id-tarifa#),pagado"
+1,2023-05-29T14:00,2023-06-02T14:00,2,3,1050000,true,false,sara#1#18#sara#3,ESTANDAR-1-500000#SUITE-2-550000#,false
+2,2023-05-30T14:00,2023-06-01T14:00,3,0,690000,true,true,daniel#2#18#daniel#3,SUITE-4-330000#SUITE_DOBLE-5-360000#,false
+3,2023-05-10T14:00,2023-05-10T14:00,1,0,120000,true,false,a#1#40#a#3,SUITE_DOBLE-5-120000#,true
+4,2023-06-04T14:00,2023-06-04T14:00,1,0,120000,true,false,carlos#8#18#carlos#3,SUITE_DOBLE-5-120000#,true

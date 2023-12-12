@@ -1,0 +1,17 @@
+FACTURA N° 2 GRUPO 1
+Tipo: restaurante Fecha: 2023-05-29 
+
+Descripción:
+2. gaseosa - $3000
+2. gaseosa - $3000
+6. salchipapa - $11000
+10. ensalada - $12000
+10. ensalada - $12000
+10. ensalada - $12000
+13. pechuga a la plancha - $16000
+
+Huéspedes: 
+
+Valor: $69000.0
+IVA (19%): $13110.0
+Valor Total: $82110.0

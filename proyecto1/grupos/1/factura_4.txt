@@ -1,0 +1,10 @@
+FACTURA N° 4 GRUPO 1
+Tipo: spa Fecha: 2023-05-29 
+
+Descripción:
+Servicio de spa por persona
+Huéspedes: 
+
+Valor: $50000.0
+IVA (19%): $9500.0
+Valor Total: $59500.0

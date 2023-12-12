@@ -1,0 +1,11 @@
+FACTURA N° 5 GRUPO 2
+Tipo: restaurante Fecha: 2023-05-30 
+
+Descripción:
+4. pizza - $10000
+
+Huéspedes: 
+
+Valor: $10000.0
+IVA (19%): $1900.0
+Valor Total: $11900.0

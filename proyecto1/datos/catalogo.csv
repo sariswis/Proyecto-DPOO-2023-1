@@ -1,0 +1,5 @@
+nombre,ubicacion,descripcion,tarifa
+ALOJAMIENTO,Recepcion,Servicio de alojamiento,0
+RESTAURANTE,Restaurante y habitacion,Servicio de comidas,0
+SPA,Sala de spa,Servicio de spa por persona,50000
+GUIA_TURISTICO,Lobby,Servicio de guia turistico por grupo,100000
