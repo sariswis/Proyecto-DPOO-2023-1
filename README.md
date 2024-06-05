@@ -1,4 +1,4 @@
-# Proyecto-DPOO-2023-1
+# Proyecto DPOO 2023-1
 
 Este repositorio almacena el proyecto final de la materia Diseño y Programación Orientada a Objetos de la Universidad de los Andes para el semestre 2023-1
 
